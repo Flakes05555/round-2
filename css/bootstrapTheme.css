@@ -21,7 +21,7 @@
 }
 .hide-text {
   font: 0/0 a;
-  color: transparent;
+  color: #000
   text-shadow: none;
   background-color: transparent;
   border: 0;
