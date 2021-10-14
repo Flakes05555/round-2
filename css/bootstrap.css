@@ -4774,10 +4774,10 @@ a.list-group-item-danger.active:focus {
   margin-top: 0;
   margin-bottom: 0;
   font-size: 17px;
-  color: inherit;
+  color: rgba(13, 12, 64, 0.726);
 }
 .panel-title > a {
-  color: inherit;
+  color: rgba(13, 12, 64, 0.726);
 }
 .panel-footer {
   padding: 10px 15px;
