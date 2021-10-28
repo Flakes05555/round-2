@@ -2257,7 +2257,6 @@ select[multiple].navbar-form .btn {
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
   color: #bc1a1a;
-  background-color: transparent;
 }
 .navbar-default .navbar-toggle:before {
   color: #34495e;
