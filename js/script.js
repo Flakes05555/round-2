@@ -55,7 +55,7 @@ $(document).ready(function() {
 			slideSpeed : 300,
 			paginationSpeed : 400,
 			singleItem:true
-	  });
+	    });
 
 		//SmothScroll
 		$('a[href*=#]').click(function() {
