@@ -102,12 +102,12 @@ margin: auto;
 }
 #owl-demo-2 .item{
 	margin: 3px;
-  }
-  #owl-demo-2 .item img{
-	display: block;
-	width: 100%;
-	height: auto;
-  }
+}
+#owl-demo-2 .item img{
+display: block;
+width: 100%;
+height: auto;
+}
 
 /*magnific */
 .mfp-bg {
@@ -178,7 +178,7 @@ width: 50px;
 }
 
 .social > a:hover {
-	color: #1abc9c; 
+	color: #bc1a1a; 
 }
 
 .box-icon {
