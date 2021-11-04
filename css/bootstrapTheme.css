@@ -22,9 +22,9 @@
 .hide-text {
   font: 0/0 a;
   color: #000
-  text-shadow: none;
+  text-shadow:none;
   background-color: transparent;
-  border: 0;
+  border:0
 }
 .input-block-level {
   display: block;
